@@ -5,6 +5,8 @@ This year, I look forward to making more Mobile & Web Applications!
 
 I also aim to launch an annoymous social media App called 'Karma Farm' by the end of this summmer.
 Please reach out to me at 📫 zfu04@tufts.edu if you know SwiftUI / Front-end design and want to collaborate.
+
+I want to create more mobile applications in the future, my ideas range from personal finance management App to an App where people can share what they have been cooking lately, but I still ahve a long way to go! 
 <!--
 **realtobyfu/realtobyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

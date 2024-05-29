@@ -1,5 +1,10 @@
 ### Hi I am Tobias 👋
 
+I am currently learning React.js, SwiftUI, and Natural Language Processing.
+This year, I look forward to making more Mobile & Web Applications!
+
+I also aim to launch an annoymous social media App called 'Karma Farm' by the end of this summmer.
+📫 Please reach out to me at zfu04@tufts.edu if you know SwiftUI / Front-end design and want to collaborate.
 <!--
 **realtobyfu/realtobyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

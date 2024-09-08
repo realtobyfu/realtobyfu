@@ -3,10 +3,10 @@
 I am currently learning React.js, SwiftUI, and Natural Language Processing.
 This year, I look forward to making more Mobile & Web Applications!
 
-I also aim to launch an annoymous social media App called 'Karma Farm' by the end of this summmer.
+I also aim to launch an annoymous social media App called 'Karma Farm' by the end of this winter.
 Please reach out to me at 📫 zfu04@tufts.edu if woud like to learn more about my project or collaborate
 
-In the future, I want to create more mobile applications that can make daily life more enjoyable. My ideas range from personal finance management App to an App where people can share what they have been cooking lately, or a notetaking App that brings more fun to daily life, but I still ahve a long way to go! 
+In the future, I want to create more mobile applications that can make mundane tasks enjoyable. My ideas range from personal finance management App to an App where people can share what they have been cooking lately, or a notetaking App that brings more fun to daily life, but I still ahve a long way to go! 
 <!--
 **realtobyfu/realtobyfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

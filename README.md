@@ -4,7 +4,7 @@ I am currently learning React.js, SwiftUI, and Natural Language Processing.
 This year, I look forward to making more Mobile & Web Applications!
 
 I also aim to launch an annoymous social media platform called 'Karma Farm' by the end of summer 2025.
-Please reach out to me at 📫 zfu04@tufts.edu if woud like to learn more about my project or collaborate
+Please reach out to me at 📫 3tobiasfu@gmail.com if woud like to learn more about my project or collaborate
 <!--
 
 In the future, I want to create more mobile / web apps that can make mundane tasks enjoyable. My ideas range from personal finance management App to an App where people can share what they have been cooking lately, or a notetaking App that brings more fun to daily life, but there is still a long way to go! 

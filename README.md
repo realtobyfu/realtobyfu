@@ -3,7 +3,7 @@
 I am currently learning React.js, SwiftUI, and Natural Language Processing.
 This year, I look forward to making more Mobile & Web Applications!
 
-I also aim to launch an annoymous social media platform called 'Karma Farm' by the end of summer 2025.
+I also aim to launch an annoymous social media platform called 'Karma Farm' by the end of 2025.
 Please reach out to me at 📫 3tobiasfu@gmail.com if woud like to learn more about my project or collaborate
 <!--
 

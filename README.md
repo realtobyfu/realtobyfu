@@ -1,6 +1,6 @@
 ### Hi I am Tobias 👋
 
-I am currently learning React.js, SwiftUI, and Natural Language Processing.
+I am currently working with frameworks like React.js, SwiftUI, and learning Natural Language Processing.
 This year, I look forward to making more Mobile & Web Applications!
 
 I also aim to launch an annoymous social media platform called 'Karma Farm' by the end of 2025.
